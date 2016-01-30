@@ -1,9 +1,12 @@
-import csv
+import csv, sys, os
 
-filename = 'input.csv'
+if len(sys.argv) != 2:
+    print "Usage: python %s <spreadsheet.csv>" % os.path.basename(__file__)
+    sys.exit(0)
+filename = sys.argv[1]
 
 print "---Battle Tower CSV Parser---"
-print "        version 0.0.2        "
+print "        version 0.0.3        "
 print
 print "Loading " + filename + "..."
 print
@@ -44,3 +47,4 @@ for item in floors[9]:
     config.write(item)
     config.write(';')
 config.write('\n}')
+print "done!"
