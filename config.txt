@@ -1,0 +1,12 @@
+battletowerchestitems {
+    S:"Floor 1"=Floor 1;minecraft:clay-0-40-1-15;minecraft:iron_bars-0-50-1-1;
+    S:"Floor 2"=Floor 2;minecraft:wool-0-70-3-4;minecraft:wool-1-70-3-4;minecraft:wool-2-70-3-4;minecraft:wool-11-70-3-4;minecraft:wool-14-70-3-4;
+    S:"Floor 3"=Floor 3;minecraft:coal-0-70-1-7;
+    S:"Floor 4"=Floor 4;minecraft:wool-0-30-3-4;minecraft:wool-8-20-3-4;minecraft:wool-9-70-3-4;minecraft:wool-13-50-3-4;minecraft:wool-4-70-1-2;
+    S:"Floor 5"=Floor 5;minecraft:soul_sand-0-30-2-5;minecraft:bow-0-30-1-2;minecraft:iron_ingot-0-40-1-10;
+    S:"Floor 6"=Floor 6;minecraft:anvil-0-15-1-1;minecraft:iron_ingot-0-40-1-10;
+    S:"Floor 7"=Floor 7;IC2:itemDynamite-0-20-1-2;minecraft:iron_ingot-0-40-1-10;
+    S:"Floor 8"=Floor 8;minecraft:iron_sword-0-30-1-1;
+    S:"Floor 9"=Floor 9;minecraft:enchanting_table-0-5-1-1;
+    S:"Top Floor"=Top Floor;minecraft:diamond_pickaxe-0-20-1-1;
+}
